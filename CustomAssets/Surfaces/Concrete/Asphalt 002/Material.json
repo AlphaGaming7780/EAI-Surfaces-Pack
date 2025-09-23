@@ -1,7 +1,8 @@
 {
     "Float": {
-      "colossal_DecalLayerMask": 3,
-      "colossal_EdgeNormal": 0
+        "colossal_UVScale": 0.25,
+        "colossal_DecalLayerMask": 3,
+        "colossal_EdgeNormal": 0
     },
     "Vector": {
         "colossal_EdgeFadeRange": {
@@ -12,15 +13,9 @@
         },
         "colossal_EdgeNoise": {
             "x": 0,
-            "y": 0.5,
+            "y": 1,
             "z": 0,
             "w": 0
         }
-    },
-    "prefabIdentifierInfos": [
-        {
-            "m_Name": "Herringbone Grey Paving Stone 001",
-            "m_Type": "SurfacePrefab"
-        }
-    ]
+    }
 }

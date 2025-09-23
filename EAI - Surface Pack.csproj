@@ -25,8 +25,8 @@
 
   <ItemGroup>
     <!--When EAI is released on PDX un commente this line under (remove the <!- ->) and delete the second Reference-->
-    <!--<Reference Include="$(UserDataPath)\.cache\Mods\mods_subscribed\**\ExtraAssetsImporter.dll" Private="False" />-->
-    <Reference Include="$(LocalModsPath)\ExtraAssetsImporter\ExtraAssetsImporter.dll" Private="False" />
+    <Reference Include="$(UserDataPath)\.cache\Mods\mods_subscribed\**\ExtraAssetsImporter.dll" Private="False" />
+    <!--<Reference Include="$(LocalModsPath)\ExtraAssetsImporter\ExtraAssetsImporter.dll" Private="False" />-->
   </ItemGroup>
 
   <Target Name="GetCustomAssetsFiles" AfterTargets="DeployWIP">

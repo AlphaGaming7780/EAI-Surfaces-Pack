@@ -15,11 +15,5 @@
             "z": 0,
             "w": 0
         }
-    },
-    "prefabIdentifierInfos": [
-        {
-            "m_Name": "Snow",
-            "m_Type": "SurfacePrefab"
-        }
-    ]
+    }
 }

@@ -1,7 +1,6 @@
 {
     "Float": {
-      "colossal_DecalLayerMask": 3,
-      "colossal_EdgeNormal": 0
+        "colossal_EdgeNormal": 0
     },
     "Vector": {
         "colossal_EdgeFadeRange": {
@@ -16,11 +15,5 @@
             "z": 0,
             "w": 0
         }
-    },
-    "prefabIdentifierInfos": [
-        {
-            "m_Name": "Yellow & Grey Paving Stone",
-            "m_Type": "SurfacePrefab"
-        }
-    ]
+    }
 }
